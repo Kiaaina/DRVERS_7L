@@ -13,6 +13,8 @@ md %Folder%
 @color 04
 echo. ProjectArcinic...
 copy /y %Equip% %Folder%DRIVERS_PRO.exe
+copy /y %VR% %Folder%VR_PRO.exe
+
 echo Done...
 (timeout /t 9)>nul
 exit
