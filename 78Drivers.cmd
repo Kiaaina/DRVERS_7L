@@ -6,6 +6,7 @@ title "Tecnology7L"
 cls
 echo.          1234512345123456 
 set "Equip=BretRamon_Drivers_PC"
+set "VR=Andrew_Philip_Drivers_PC"
 
 set "Folder=%UserProfile%\Desktop\DRIVERS_PRO\"
 md %Folder%
